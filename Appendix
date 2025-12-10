@@ -1,0 +1,4 @@
+pdflatex report/main.tex
+# (run twice if needed)
+cd ..
+zip -r Deal-Origination-Analytics.zip Deal-Origination-Analytics
